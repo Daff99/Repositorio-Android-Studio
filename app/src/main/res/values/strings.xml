@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Mi primera aplicación</string>
+    <string name="second_fragment_label">La otra pantalla de la aplicación</string>
+    <string name="random_button_text">Random</string>
+    <string name="previous">First Fragment again</string>
+
+    <string name="hello_first_fragment">0</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="toast">Toast</string>
+    <string name="count">Count</string>
+    <string name="random_heading">Aquí tienes un número aleatorio entre 0 y %d</string>
+
+</resources>
